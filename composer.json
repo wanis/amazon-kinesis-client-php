@@ -2,7 +2,7 @@
     "name": "wanis/amazon-kinesis-client-php",
     "description": "This package provides PHP interface to the Amazon Kinesis Client Library (KCL) MultiLangDaemon, which is part of the Amazon KCL for Java.",
     "keywords": ["Kinesis", "AWS", "Amazon Kinesis"],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
