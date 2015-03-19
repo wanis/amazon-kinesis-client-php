@@ -1,6 +1,7 @@
 <?php
 namespace Wanis\Aws\Kinesis\Messages\Input;
 
+use Wanis\Aws\Kinesis\Checkpointer;
 use Wanis\Aws\Kinesis\Messages\Input;
 use Wanis\Aws\Kinesis\Messages\Output;
 use Wanis\Aws\Kinesis\Processors\Processor;
